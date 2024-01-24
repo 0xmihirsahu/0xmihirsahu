@@ -4,9 +4,6 @@ Welcome to my GitHub profile! I'm Mihir, and I'm passionate about coding and bui
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xmihirsahu&show_icons=true&count_private=true&hide=issues&theme=dark)
-
 <!-- Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xmihirsahu&layout=compact&theme=dark)
 
