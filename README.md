@@ -1,4 +1,4 @@
-# Hi there! 👋
+# HELLO! 👋
 
 Welcome to my GitHub profile! I'm Mihir, and I'm passionate about coding and building cool stuff. Feel free to explore the projects I'm working on, and don't hesitate to reach out if you have any questions or collaboration ideas.
 
