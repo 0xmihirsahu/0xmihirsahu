@@ -1,6 +1,9 @@
 # HELLO! 👋
 
-I'm Mihir.
+I'm Mihir, CS undergrad from India.
+
+2x 🏆 Hackathon
+
 
 ## 📊 GitHub Stats
 
