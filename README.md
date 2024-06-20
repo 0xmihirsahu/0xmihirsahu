@@ -20,7 +20,7 @@ I'm Mihir, CS undergrad from India.
 
 ###
 
-<h2 align="left">Familiar with Technology:</h2>
+<h2 align="left">👨‍💻My Tech Stack</h2>
 
 ###
 
