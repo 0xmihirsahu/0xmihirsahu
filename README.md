@@ -25,42 +25,43 @@ I'm Mihir, CS undergrad from India.
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="Solidity logo" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="Solidity logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="Sass logo" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="Sass logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux logo" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="NextJS logo" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="NextJS logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo" style="pointer-events: none;" />
+ <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma logo" style="pointer-events: none;" />
+ <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma logo"  />
   <img width="12" /> 
-  <img src="https://skillicons.dev/icons?i=ipfs" height="40" alt="IPFS logo" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=ipfs" height="40" alt="IPFS logo"  />
   <img width="12" /> 
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL logo" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL logo"  />
   <img width="12" /> 
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash logo" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash logo"  />
 </div>
+
 
 
 ###
