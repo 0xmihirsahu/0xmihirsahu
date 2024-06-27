@@ -4,6 +4,8 @@ I'm Mihir, CS undergrad from India.
 
 2x 🏆 Hackathon
 
+🏆 StarkHack First Prize winner & Finalist $13k
+
 
 ## 📊 GitHub Stats
 
