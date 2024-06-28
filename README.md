@@ -1,6 +1,7 @@
 # HELLO! 👋
 
-I'm Mihir, CS undergrad from India.
+I'm Mihir, CS undergrad from India. I have interest in Cryptography and Zero-Knowledge Proof.
+
 
 2x 🏆 Hackathon
 
