@@ -5,7 +5,7 @@ I'm Mihir, CS undergrad. I have interest in Cryptography, Zero-Knowledge and Web
 
 3x 🏆 Hackathon winner
 
-🏆 StarkHack First Prize winner & Finalist $13k
+🏆 StarkHack First Prize winner & Finalist
 
 
 ## 📊 GitHub Stats
@@ -61,8 +61,6 @@ I'm Mihir, CS undergrad. I have interest in Cryptography, Zero-Knowledge and Web
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL logo"  />
   <img width="10" /> 
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash logo"  />
 </div>
 
 
