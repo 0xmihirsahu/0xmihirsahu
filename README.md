@@ -3,7 +3,7 @@
 I'm Mihir, CS undergrad. I have interest in Cryptography, Zero-Knowledge and Web3.
 
 
-7x 🏆 Hackathon winner
+8x 🏆 Hackathon winner
 
 🏆 StarkHack First Prize winner & Finalist
 
