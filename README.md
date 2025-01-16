@@ -36,6 +36,8 @@ I'm Mihir, CS undergrad. I have interest in Cryptography, Zero-Knowledge and Web
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo" />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust logo" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
