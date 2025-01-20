@@ -1,24 +1,24 @@
 # HELLO! 👋
 
-I'm Mihir, CS undergrad. I have interest in Cryptography, Zero-Knowledge and Web3.
-
+I'm Mihir, CS undergrad. I have an interest in Cryptography, Zero-Knowledge, and Web3.
 
 8x 🏆 Hackathon winner
 
-🏆 StarkHack First Prize winner & Finalist
+🏆 ETHGlobal Finalist & Aptos Code Collison Finalist
 
+Some of my amazing hackathon projects:
+- 🌐 [Web3Wheels](https://devpost.com/software/web3wheels): A decentralized platform for car rentals, built during the Chainlink BlockMagic Hackathon.  
+- 🌪️ [StarkSwirl](https://ethglobal.com/showcase/starkswirl-vyttm): A cutting-edge social platform powered by zero-knowledge proofs, winner of ETHGlobal StarkHack.  
+- 🏛️ [PopuliDAO](https://ethglobal.com/showcase/populidao-ffbb2): A decentralized voting and governance platform with World ID integration.  
+- 🤝 [Deel Protocol](https://ethglobal.com/showcase/deel-protocol-kq19m): A Web3 platform for job-based agreements and payments.  
+- 💸 [FundMate](https://dorahacks.io/buidl/16821): A decentralized messaging app with integrated cryptocurrency payments, finalist at the Aptos CodeCollision Hackathon.  
 
 ## 📊 GitHub Stats
-
-<!-- Top Languages Card -->
-
 
 <br>
 
 <div align="left">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=0xmihirsahu&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmihirsahu&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=0xmihirsahu&locale=en&mode=daily&theme=tokyonight&hide_border=true" height="150" alt="streak graph"  /> -->
 </div>
 
 ###
@@ -64,7 +64,5 @@ I'm Mihir, CS undergrad. I have interest in Cryptography, Zero-Knowledge and Web
   <img width="10" /> 
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo"  />
 </div>
-
-
 
 ###
