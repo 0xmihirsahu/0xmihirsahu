@@ -2,9 +2,7 @@
 
 I'm Mihir, CS undergrad. I have an interest in Cryptography, Zero-Knowledge, and Web3.
 
-8x 🏆 Hackathon winner
-
-🏆 ETHGlobal Finalist & Aptos Code Collison Finalist
+8x 🏆 Hackathon Winner | ETHGlobal & Aptos Code Collision Finalist
 
 Some of my amazing hackathon projects:
 - 🌐 [Web3Wheels](https://devpost.com/software/web3wheels): A decentralized platform for car rentals, built during the Chainlink BlockMagic Hackathon.  
