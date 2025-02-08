@@ -12,7 +12,9 @@ Some of my amazing hackathon projects:
 - 💸 [FundMate](https://dorahacks.io/buidl/16821): A decentralized messaging app with integrated cryptocurrency payments, finalist at the Aptos CodeCollision Hackathon.  
 
 ## 📊 GitHub Stats
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmihirsahu&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+</div>
 <br>
 
 
