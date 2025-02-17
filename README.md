@@ -36,10 +36,6 @@ Some of my amazing hackathon projects:
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="Sass logo" />
