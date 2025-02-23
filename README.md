@@ -5,11 +5,13 @@ I'm Mihir, CS undergrad. I have an interest in Cryptography, Zero-Knowledge, and
 8x 🏆 Hackathon Winner | ETHGlobal & Aptos Code Collision Finalist
 
 Some of my amazing hackathon projects:
-- 🌐 [Web3Wheels](https://devpost.com/software/web3wheels): A decentralized platform for car rentals, built during the Chainlink BlockMagic Hackathon.  
+
 - 🌪️ [StarkSwirl](https://ethglobal.com/showcase/starkswirl-vyttm): A cutting-edge social platform powered by zero-knowledge proofs, winner of ETHGlobal StarkHack.  
+- 🌐 [Web3Wheels](https://devpost.com/software/web3wheels): A decentralized platform for car rentals, built during the Chainlink BlockMagic Hackathon.  
+- 💸 [FundMate](https://dorahacks.io/buidl/16821): A decentralized messaging app with integrated cryptocurrency payments, finalist at the Aptos CodeCollision Hackathon.  
 - 🏛️ [PopuliDAO](https://ethglobal.com/showcase/populidao-ffbb2): A decentralized voting and governance platform with World ID integration.  
 - 🤝 [Deel Protocol](https://ethglobal.com/showcase/deel-protocol-kq19m): A Web3 platform for job-based agreements and payments.  
-- 💸 [FundMate](https://dorahacks.io/buidl/16821): A decentralized messaging app with integrated cryptocurrency payments, finalist at the Aptos CodeCollision Hackathon.  
+
 
 ## 📊 GitHub Stats
 <div align="left">
