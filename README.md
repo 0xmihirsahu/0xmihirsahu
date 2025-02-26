@@ -2,7 +2,7 @@
 
 I'm Mihir, CS undergrad. I have an interest in Cryptography, Zero-Knowledge, and Web3.
 
-8x 🏆 Hackathon Winner | ETHGlobal & Aptos Code Collision Finalist
+8x 🏆 Hackathon Winner | ETHGlobal & Aptos Code Collision Finalist.
 
 Some of my amazing hackathon projects:
 
