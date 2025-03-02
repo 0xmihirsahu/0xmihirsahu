@@ -40,8 +40,6 @@ Some of my amazing hackathon projects:
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="Sass logo" />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
