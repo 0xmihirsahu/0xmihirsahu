@@ -34,11 +34,11 @@ Some of my amazing hackathon projects:
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="Solidity logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo" />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="NextJS logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
   <img width="10" />
@@ -46,11 +46,11 @@ Some of my amazing hackathon projects:
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="NextJS logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" />
   <img width="10" />
- <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo"  />
   <img width="10" />
- <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma logo"  />
   <img width="10" /> 
   <img src="https://skillicons.dev/icons?i=ipfs" height="40" alt="IPFS logo"  />
   <img width="10" /> 
