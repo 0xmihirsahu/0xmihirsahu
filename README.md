@@ -48,8 +48,6 @@ Some of my amazing hackathon projects:
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma logo"  />
   <img width="10" /> 
   <img src="https://skillicons.dev/icons?i=ipfs" height="40" alt="IPFS logo"  />
