@@ -1,6 +1,6 @@
 # HELLO! 👋
 
-I'm Mihir, CS undergrad. I have an interest in Cryptography, Zero-Knowledge, and Web3.
+I'm Mihir, CS undergrad. I have an interest in Cryptography and Web3.
 
 8x 🏆 Hackathon Winner | ETHGlobal & Aptos Code Collision Finalist.
 
