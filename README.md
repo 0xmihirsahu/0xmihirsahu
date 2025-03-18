@@ -2,7 +2,7 @@
 
 I'm Mihir. I have zero knowledge about Web3.
 
-8x 🏆 Hackathon Winner | ETHGlobal & Aptos Code Collision Finalist. | Starknet grantee
+8x 🏆 Hackathon Winner | ETHGlobal & Aptos Code Collision Finalist | Starknet grantee
 
 Some of my amazing hackathon projects:
 
