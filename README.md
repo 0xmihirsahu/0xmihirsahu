@@ -5,7 +5,7 @@ I'm Mihir. I have zero knowledge about Web3.
 9x 🏆 Hackathon Winner | 2x ETHGlobal Finalist & Aptos CodeCollision  | Starknet grantee
 
 Some of my amazing hackathon projects:
-
+- 🍔 [SoloPatyy](https://ethglobal.com/showcase/solopatty-5ua9t): TEE-based private order book DEX, preventing MEV and executing trades privately. | ETHGlobal Trifecta Top 5.
 - 🌪️ [StarkSwirl](https://ethglobal.com/showcase/starkswirl-vyttm): A privacy pool on Starknet, winner of ETHGlobal StarkHack and finalist.  
 - 💸 [FundMate](https://dorahacks.io/buidl/16821): A decentralized super app with messaging app, integrated cryptocurrency payments, finalist at the Aptos CodeCollision Hackathon.  
 - 🌐 [Web3Wheels](https://devpost.com/software/web3wheels): A decentralized autonomous vehicles (DAV) platform, built during the Chainlink BlockMagic Hackathon. 
