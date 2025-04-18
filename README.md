@@ -10,7 +10,7 @@ Some of my amazing hackathon projects:
 - 🏛️ [PopuliDAO](https://ethglobal.com/showcase/populidao-ffbb2): Governance with proof-of-personhood. | _Built at ETHGlobal Superhack_
 - 🤝 [Deel Protocol](https://ethglobal.com/showcase/deel-protocol-kq19m): On-chain agreements & payments for jobs. | _Built at ETHGlobal ETHOnline_
 
-<img src="https://github.com/user-attachments/assets/760f37e1-f027-48bf-8f53-cb4e2f3cc82c" width="69%" alt="Mihir Banner" />
+<img src="https://github.com/user-attachments/assets/760f37e1-f027-48bf-8f53-cb4e2f3cc82c" width="77%" alt="Mihir Banner" />
 
 ## 📊 GitHub Stats
 <div align="left">
