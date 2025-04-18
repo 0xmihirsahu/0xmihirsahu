@@ -11,6 +11,9 @@ Some of my amazing hackathon projects:
 - 🤝 [Deel Protocol](https://ethglobal.com/showcase/deel-protocol-kq19m): A Web3 platform for job-based agreements and payments.  
 
 
+![00effa4f592d71b3af8c9903cc3b8e86](https://github.com/user-attachments/assets/760f37e1-f027-48bf-8f53-cb4e2f3cc82c)
+
+
 ## 📊 GitHub Stats
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmihirsahu&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
