@@ -1,4 +1,4 @@
-### i'm mihir. i have zero knowledge about web3. 
+### i'm mihir, i have zero knowledge about web3 but full commitment.
 
 9x 🏆 Hackathon Winner | 2x ETHGlobal Finalist & Aptos CodeCollision  | Starknet grantee
 
@@ -18,10 +18,8 @@ Some of my amazing hackathon projects:
 </div>
 <br>
 
-
 ###
 <h2 align="left">👨‍💻My Tech Stack</h2>
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,solidity,rust,cpp,nextjs,nodejs,react,redux,tailwind,prisma,ipfs,graphql,docker" />
 </div>
