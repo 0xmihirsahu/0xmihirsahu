@@ -1,4 +1,4 @@
-### I’m mihir, zero knowledge of Web3, but full commitment.
+### i’m Mihir, i have zero knowledge of web3, yet I’m fully committed.
 
 9x 🏆 Hackathon Winner | 2x ETHGlobal Finalist & Aptos CodeCollision  | Starknet grantee
 
