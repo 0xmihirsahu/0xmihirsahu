@@ -1,6 +1,6 @@
 ### i’m mihir, i have zero knowledge of web3, yet i have full commitment.
 
-10x 🏆 Hackathon Winner | 2x ETHGlobal Finalist & Aptos CodeCollision, 2x Chainlink Hacakthon Winner | Starknet grantee.
+11x 🏆 Hackathon Winner | 3x ETHGlobal Finalist & Aptos CodeCollision, 2x Chainlink Hacakthon Winner | Starknet grantee.
 
 Some of my amazing hackathon projects:
 - 🍔 [SoloPatty](https://ethglobal.com/showcase/solopatty-5ua9t): TEE-based private order book DEX preventing MEV | _Top 5 @ ETHGlobal Trifecta_
