@@ -3,6 +3,7 @@
 11x 🏆 Hackathon Winner | 3x ETHGlobal Finalist & Aptos CodeCollision, 2x Chainlink Hacakthon Winner | Starknet grantee.
 
 Some of my amazing hackathon projects:
+- 🗞️ [ad-402](https://ethglobal.com/showcase/ad-402-5bnqt): x402-based permissionless Ad hosting sdk | _Finalist @ ETHGlobal New Delhi_
 - 🍔 [SoloPatty](https://ethglobal.com/showcase/solopatty-5ua9t): TEE-based private order book DEX preventing MEV | _Top 5 @ ETHGlobal Trifecta_
 - 🌪️ [StarkSwirl](https://ethglobal.com/showcase/starkswirl-vyttm): Privacy pool on Starknet | _Winner & Finalist @ ETHGlobal StarkHack_
 - 💸 [FundMate](https://dorahacks.io/buidl/16821): Super app with chat + crypto payments | _Finalist @ Aptos CodeCollision_
