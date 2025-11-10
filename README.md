@@ -1,6 +1,6 @@
 ### i’m mihir, i have zero knowledge of web3, yet i have full commitment.
 
-11x 🏆 Hackathon Winner | 3x ETHGlobal Finalist & Aptos CodeCollision, 2x Chainlink Hacakthon Winner | Starknet grantee.
+13x 🏆 Hackathon Winner | 3x ETHGlobal Finalist & Aptos CodeCollision, 2x Chainlink Hacakthon Winner, Circle Hackathon winner.
 
 Some of my amazing hackathon projects:
 - 🗞️ [ad-402](https://ethglobal.com/showcase/ad-402-5bnqt): x402-based permissionless Ad hosting sdk | _Finalist @ ETHGlobal New Delhi_
