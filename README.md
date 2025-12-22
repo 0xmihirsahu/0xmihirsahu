@@ -18,11 +18,10 @@ Some of my amazing hackathon projects:
 </div>
 <br>
 
-###
-<h2 align="left">👨‍💻My Tech Stack</h2>
+<!-- <h2 align="left">👨‍💻My Tech Stack</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,solidity,rust,cpp,nextjs,nodejs,react,redux,tailwind,prisma,ipfs,graphql,docker" />
-</div>
+</div> -->
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xmihirsahu&label=Profile%20views&color=0e75b6&style=flat" alt="0xmihirsahu" /> </p>
