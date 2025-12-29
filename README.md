@@ -12,11 +12,11 @@ Some of my amazing hackathon projects:
 
 <img src="https://github.com/user-attachments/assets/760f37e1-f027-48bf-8f53-cb4e2f3cc82c" width="77%" alt="Mihir Banner" />
 
-## 📊 GitHub Stats
-<div align="left">
+
+<!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmihirsahu&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="120" alt="languages graph"  />
 </div>
-<br>
+<br> -->
 
 <!-- <h2 align="left">👨‍💻My Tech Stack</h2>
 <div align="left">
