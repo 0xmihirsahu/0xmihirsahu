@@ -1,4 +1,4 @@
-### i’m mihir, i have zero knowledge of web3, yet i have full commitment.
+### i’m mihir, i have zero knowledge of web3 but still i have full commitment.
 
 15x 🏆 Hackathon Winner | 3x ETHGlobal Finalist & 2x Aptos Hackathon Winner, 2x Chainlink Hacakthon Winner, Circle Hackathon winner.
 
