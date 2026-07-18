@@ -1,6 +1,6 @@
-### i’m mihir, i have zero knowledge of web3 but still i have full commitment.
+### i’m mihir, i'm into privacy tech, defi, and agents.
 
-15x 🏆 Hackathon Winner | 3x ETHGlobal Finalist & 2x Aptos Hackathon Winner, 2x Chainlink Hacakthon Winner, Circle Hackathon winner.
+15x 🏆 Hackathon Winner | 3x ETHGlobal Finalist & 2x Aptos Hackathon Winner, 2x Chainlink Hackathon Winner, Circle Hackathon winner.
 
 Some of my amazing hackathon projects:
 - 🗞️ [ad-402](https://ethglobal.com/showcase/ad-402-5bnqt): x402-based permissionless Ad hosting sdk | _Finalist @ ETHGlobal New Delhi_
