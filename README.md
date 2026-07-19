@@ -1,6 +1,5 @@
 ### i’m mihir, i'm into privacy tech, defi, and agents.
 
-15x 🏆 Hackathon Winner | 3x ETHGlobal Finalist & 2x Aptos Hackathon Winner, 2x Chainlink Hackathon Winner, Circle Hackathon winner.
 
 Some of my amazing hackathon projects:
 - 🗞️ [ad-402](https://ethglobal.com/showcase/ad-402-5bnqt): x402-based permissionless Ad hosting sdk | _Finalist @ ETHGlobal New Delhi_
@@ -8,6 +7,8 @@ Some of my amazing hackathon projects:
 - 🌪️ [StarkSwirl](https://ethglobal.com/showcase/starkswirl-vyttm): Privacy pool on Starknet | _Winner & Finalist @ ETHGlobal StarkHack_
 - 💸 [FundMate](https://dorahacks.io/buidl/16821): Super app with chat + crypto payments | _Finalist @ Aptos CodeCollision_
 - 🌐 [Web3Wheels](https://devpost.com/software/web3wheels): DAVs (Decentralized Autonomous Vehicle) infra using Chainlink | _Built at Chainlink BlockMagic_
+
+15x 🏆 Hackathon Winner | 3x ETHGlobal Finalist & 2x Aptos Hackathon Winner, 2x Chainlink Hackathon Winner, Circle Hackathon winner.
 
 <img src="https://github.com/user-attachments/assets/760f37e1-f027-48bf-8f53-cb4e2f3cc82c" width="77%" alt="Mihir Banner" />
 
