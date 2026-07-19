@@ -1,5 +1,6 @@
 ### i’m mihir, i'm into privacy tech, defi, and agents.
 
+Currently designing and building privacy tech @Inco
 
 Some of my amazing hackathon projects:
 - 🗞️ [ad-402](https://ethglobal.com/showcase/ad-402-5bnqt): x402-based permissionless Ad hosting sdk | _Finalist @ ETHGlobal New Delhi_
